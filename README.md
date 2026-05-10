@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের এই নিস্তব্ধতায় তোমার উষ্ণ নিঃশ্বাস,
+> আমার এই শরীরে জাগায় অদ্ভুত এক বিশ্বাস।
+> অন্ধকার এই ঘরে তুমি আর আমি একা,
+> এই প্রেমের নেশায় আজ হোক না নতুন দেখা।
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
