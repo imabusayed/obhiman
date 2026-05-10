@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Obhiman
+
+This log tracks the cryptographic history and versioning for the song **Obhiman** (obhiman).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T03:28:32.737959 | `v1` | `37b050ad99baaf3d67ac9f89b96a0f5e611e90aa1d0b6dbe20327baf970dc9af` | `0f9a91a7c2576554e9f576537666907bb31bec8799abdbee53bcd64b5fc27cd8` | `2026-05-11_obhiman-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

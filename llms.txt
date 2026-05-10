@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/obhiman/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Obhiman](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/obhiman/) |
+| **Get License** | [Get License For Obhiman](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/obhiman/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের এই নিস্তব্ধতায় তোমার উষ্ণ নিঃশ্বাস,
+> আমার এই শরীরে জাগায় অদ্ভুত এক বিশ্বাস।
+> অন্ধকার এই ঘরে তুমি আর আমি একা,
+> এই প্রেমের নেশায় আজ হোক না নতুন দেখা।
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `37b050ad99baaf3d67ac9f89b96a0f5e611e90aa1d0b6dbe20327baf970dc9af` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
